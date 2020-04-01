@@ -1,8 +1,14 @@
-# submission_test
+# Message Board UI
+
 
 ## Project setup
 ```
 npm install
+```
+
+This project using dotenv. Please rename to .env and change the value of your API Hostname (Message Board API)
+```
+mv sample.env .env
 ```
 
 ### Compiles and hot-reloads for development
